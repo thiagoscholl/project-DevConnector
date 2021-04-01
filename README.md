@@ -9,5 +9,5 @@ React;
 Node; 
 Express;  
 API's;  
-Mongoose/MongoDB; 
+Mongoose/MongoDB;    
 JWT (JSON Web Tokens);
